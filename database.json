@@ -1,0 +1,37 @@
+{
+    "botlar": {
+        "918788093027434516": {
+            "name": "RebelsRoom",
+            "host": "play.aycraft.pw",
+            "port": "25565",
+            "commands": "/login frknrhn1257\n/aktar\n/opskyblock\n/is go\n/adafly",
+            "connected": true
+        },
+        "942475454596653137": {
+            "name": "Katzengott",
+            "host": "193.124.8.54",
+            "port": "25555",
+            "commands": "sa",
+            "connected": true
+        },
+        "293787178784391168": {
+            "name": "Marthex ",
+            "host": "217.195.207.125",
+            "port": "25565",
+            "commands": "sa",
+            "connected": true
+        },
+        "428264997752406016": {
+            "name": "muharre_M",
+            "host": "muharrem652pFvV.aternos.me",
+            "port": "58801",
+            "commands": "sasa"
+        },
+        "476747649060569119": {
+            "name": "TuranGe",
+            "host": "185.250.210.220",
+            "port": "25503",
+            "commands": "sa"
+        }
+    }
+}

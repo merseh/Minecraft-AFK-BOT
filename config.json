@@ -1,0 +1,13 @@
+{
+    "token": "MTAyNjE5NDI3Nzg3OTAwOTM5MA.GswnUd.tpFijUypUFfpIrRCOiBBWwEOixkw27EzPvEja0",
+    "prefix": "!",
+    "üyelikRolId": "939522928041676831",
+    "embed":{
+        "color": "White",
+        "name": "Afk Client",
+        "footer": "Minecraft AFK Client"
+    },
+    "afkclient": {
+        "kategoriId": "1014235643875950623"
+    }
+}

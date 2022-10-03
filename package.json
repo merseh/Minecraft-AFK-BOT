@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "mineflayer": "^4.3.0",
+    "mineflayer-navigate": "^0.0.10",
+    "mineflayer-pathfinder": "^2.3.3",
+    "ms": "^2.1.3",
+    "wio.db": "^4.0.22"
+  }
+}
