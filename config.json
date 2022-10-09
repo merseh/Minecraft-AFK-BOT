@@ -1,7 +1,7 @@
 {
-    "token": "MTAyNjE5NDI3Nzg3OTAwOTM5MA.GswnUd.tpFijUypUFfpIrRCOiBBWwEOixkw27EzPvEja0",
+    "token": "",
     "prefix": "!",
-    "üyelikRolId": "939522928041676831",
+    "üyelikRolId": "939522928041676831", //customer
     "embed":{
         "color": "White",
         "name": "Afk Client",
