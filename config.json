@@ -1,13 +1,13 @@
 {
     "token": "",
     "prefix": "!",
-    "üyelikRolId": "939522928041676831", //customer
+    "üyelikRolId": "939522928041676831", //customer role id
     "embed":{
         "color": "White",
         "name": "Afk Client",
         "footer": "Minecraft AFK Client"
     },
     "afkclient": {
-        "kategoriId": "1014235643875950623"
+        "kategoriId": "1014235643875950623" // discord category id
     }
 }
