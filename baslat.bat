@@ -1,5 +1,5 @@
 echo off
-title Moderasyon Botu 
+title Minecraft AFK Bot
 color e
 cls
 :a
